@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipe Mateus</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **Desenvolver minhas habilidades em Programação**
 
